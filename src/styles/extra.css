@@ -1,0 +1,29 @@
+
+
+body {
+    font-family: 'Oxanium';
+}
+
+.container {
+    width: 1201px!important;
+}
+
+svg{
+    fill: currentColor;
+}
+
+.services__cards--card:hover .card__icon{
+    background-color: white;
+    transition:ease-out;
+    color: #303E49;
+}
+
+.services__cards--card:hover .card__title{
+    color: #F9FDFF;
+}
+.services__cards--card:hover .card__text{
+    color: #F9FDFF;
+}
+.services__cards--card:hover .card__link{
+    color: #F9FDFF;
+}
